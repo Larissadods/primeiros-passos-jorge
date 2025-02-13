@@ -1,0 +1,18 @@
+.menu ul {
+    text-align: center;
+    background-color: greenyellow;
+    display: inline-flex;
+    margin-left: 30%;
+    list-style: none;
+
+}
+.menu li {
+    width: 150px;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+.img {
+    width: 70px;
+}
