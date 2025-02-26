@@ -1,18 +1,47 @@
-.menu ul {
-    text-align: center;
-    background-color: greenyellow;
-    display: inline-flex;
-    margin-left: 30%;
-    list-style: none;
+body{
+    background-color: wheat;
+}
 
+.titulo h1{
+    background-color: rgb(138, 88, 69);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    
 }
-.menu li {
-    width: 150px;
-    font-size: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-left: 10px;
+
+.caracteristicas h2{
+   text-align: center;
 }
-.img {
-    width: 70px;
+.caracteristicas p{
+   text-align: center;
+   font-weight: bold;
+    
+}
+.caracteristicas img{
+   margin-left: 20%;
+}
+ 
+hr{
+    border: 2px solid;
+    border-color: rgb(138, 88, 69);
+}
+
+.ingredientes h3{
+    text-align: center;
+    font-size: 22px;
+}
+.ingredientes ul{
+    margin-left: 30%;
+    font-weight: bold;
+}
+
+.modoDePreparo h3 {
+    text-align: center;
+    font-size: 22px;
+}
+.modoDePreparo ol {
+    margin-left: 30%;
+    font-weight: bold;
 }
