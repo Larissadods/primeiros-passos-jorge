@@ -13,17 +13,16 @@ body{
 }
 
 .caracteristicas h2{
-   text-align: center;
-   font-size: 32px;
+    text-align: center;
+    font-size: 32px;
 }
 .caracteristicas p{
-   text-align: center;
    font-size: 25px;
     
 }
 .caracteristicas img{
     width: 600px;
-    margin-left: 35%;
+    margin-left: 34%;
 }
  
 hr{
@@ -32,26 +31,22 @@ hr{
 }
 
 .ingredientes h3{
-    text-align: center;
-    font-size: 32px;
+    font-size: 30px;
 }
 .ingredientes ul{
-    margin-left: 30%;
-    font-size: 22px;
+    font-size: 25px;
 }
 
 .modoDePreparo h3 {
-    text-align: center;
-    font-size: 32px;
+    font-size: 30px;
 }
 .modoDePreparo ol {
-    margin-left: 30%;
-    font-size: 22px;
+    font-size: 25px;
 }
 
 .outrasReceitas h3 {
     text-align: center;
-    font-size: 32px;
+    font-size: 30px;
 }
 
 a img {
