@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(192, 170, 151);
+}
+
+.Titulo h1 {
+    text-align: center;
+    background-color: rgb(134, 108, 90);
+    font-weight: bold;
+}

@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(216, 207, 189);
+    background-color: rgb(236, 209, 167);
 }
 
 .titulo h1{
-    background-color: rgb(138, 88, 69);
+    background-color: rgb(231, 148, 92);
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -55,6 +55,6 @@ hr{
 }
 
 a img {
-    margin-left: 35%;
-    width: 600px;
+    width: 300px;
+    margin: 30px;
 }
